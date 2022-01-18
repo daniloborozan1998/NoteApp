@@ -1,0 +1,12 @@
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.deps.json
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.runtimeconfig.json
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.runtimeconfig.dev.json
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.csproj.AssemblyReference.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.AssemblyInfoInputs.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.AssemblyInfo.cs
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.csproj.CoreCompileInputs.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Domain\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.genruntimeconfig.cache

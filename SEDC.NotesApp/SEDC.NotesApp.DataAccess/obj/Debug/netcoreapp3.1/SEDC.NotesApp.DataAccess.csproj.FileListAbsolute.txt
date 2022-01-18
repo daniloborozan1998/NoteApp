@@ -1,0 +1,15 @@
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.deps.json
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.runtimeconfig.json
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.runtimeconfig.dev.json
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.pdb
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.csproj.AssemblyReference.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.AssemblyInfoInputs.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.AssemblyInfo.cs
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.csproj.CoreCompileInputs.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.csproj.CopyComplete
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.pdb
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.DataAccess\obj\Debug\netcoreapp3.1\SEDC.NotesApp.DataAccess.genruntimeconfig.cache

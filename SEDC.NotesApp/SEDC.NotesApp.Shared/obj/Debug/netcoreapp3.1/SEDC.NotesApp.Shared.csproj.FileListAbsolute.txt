@@ -1,0 +1,9 @@
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.deps.json
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.pdb
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.csproj.AssemblyReference.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.AssemblyInfoInputs.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.AssemblyInfo.cs
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.csproj.CoreCompileInputs.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Shared\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Shared.pdb

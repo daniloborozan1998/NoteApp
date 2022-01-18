@@ -1,0 +1,12 @@
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.deps.json
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\bin\Debug\netcoreapp3.1\SEDC.NotesApp.Domain.pdb
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.AssemblyReference.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.AssemblyInfoInputs.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.AssemblyInfo.cs
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.CoreCompileInputs.cache
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.csproj.CopyComplete
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.dll
+D:\Seavus\Backend_SEDC\skwd9-09-aspnetwebapi-main\skwd9-09-aspnetwebapi-main\G2\Class15\SEDC.NotesApp\SEDC.NotesApp.Dtos\obj\Debug\netcoreapp3.1\SEDC.NotesApp.Dtos.pdb
